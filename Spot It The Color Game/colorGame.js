@@ -1,4 +1,4 @@
-var database = ["red","grey","royalblue","lightgreen","pink", "purple", "brown", "yellow", "orange", "darkgreen", "black", "skyblue", "magenta", "darkblue", "mediumpurple", "maroon"];
+var database = ["red","grey","royalblue","lightgreen","pink", "purple", "aqua", "yellow", "orange", "darkgreen", "black", "skyblue", "magenta", "darkblue", "mediumpurple", "maroon"];
 var numSquares = 6;
 var colors = [];
 var pickedColor;
